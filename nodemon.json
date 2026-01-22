@@ -1,0 +1,5 @@
+{
+  "watch": ["app.py", "templates"],
+  "ext": "py,html",
+  "exec": "uvicorn app:app --reload"
+}
